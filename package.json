@@ -10,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.5.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EthanMuchnik/Letter-Magnifier-Bot.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/EthanMuchnik/Letter-Magnifier-Bot/issues"
+  },
+  "homepage": "https://github.com/EthanMuchnik/Letter-Magnifier-Bot#readme"
 }
