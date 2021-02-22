@@ -1,4 +1,5 @@
 const Discord = require('discord.js');
+const hmm = require('./hmm.json');
 const client = new Discord.Client();
 
 client.on('ready', () => {
@@ -160,4 +161,4 @@ function PickLetter( letter){
 	
 }
 
-client.login('ODA5Mjg2MjE2NTk4OTQ1Nzk0.YCS4hQ.-t4oE4fmXjBKj-JppF9ldfC87Bs');
+client.login(hmm.token);
